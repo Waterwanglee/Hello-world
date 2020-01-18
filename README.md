@@ -1,2 +1,4 @@
 # Hello-world
-Just another repository
+
+Hi， Everyone！
+Waterwang here,I like this git. Thank you.
